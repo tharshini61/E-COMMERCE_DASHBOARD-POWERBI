@@ -1,38 +1,48 @@
-E-commerce Sales Dashboard (Power BI)
+# E-commerce Sales Dashboard (Power BI)
 
-Overview
+## 📌 Overview
+This project is an interactive E-commerce Sales Dashboard built using Power BI. The dataset was cleaned using Python (Pandas) in Google Colab before creating the dashboard. The dashboard provides insights into sales performance, customer purchasing trends, and country-wise sales distribution.
 
-This project presents an interactive E-commerce Sales Dashboard created using Power BI. It provides valuable insights into sales performance, profit, customer behavior, and product categories to support data-driven business decisions.
-
-Tools & Technologies
-
+## 🛠️ Tools & Technologies
 - Power BI
 - Python (Pandas)
 - Google Colab
 - Microsoft Excel
 
-Project Highlights
+## 📊 Dashboard Features
+- Total Sales KPI
+- Total Invoice Count KPI
+- Total Quantity Sold KPI
+- Monthly Sales Trend (Line Chart)
+- Sales by Country (Bar Chart)
+- Country-wise Sales Distribution (Donut Chart)
+- Average Quantity by Month (Pie Chart)
+- Product Details Table
+- Country Filter (Slicer)
+- Interactive Dashboard with Cross-Filtering
 
-- Designed an interactive Power BI dashboard.
-- Cleaned and prepared the dataset using Python (Pandas) in Google Colab.
-- Analyzed key metrics such as Total Sales, Total Profit, Total Orders, and Quantity Sold.
-- Created visualizations to identify sales trends, top-performing categories, regions, and products.
-- Added filters and slicers for interactive data exploration.
+## 📈 Key Insights
+- Analyzed total sales of **4.25M**.
+- Tracked **12.381K** invoices.
+- Evaluated **2M** total quantity sold.
+- Compared sales performance across different countries.
+- Identified monthly sales trends and average quantity sold.
+- Explored product-wise sales details using interactive visuals.
 
-Files Included
+## 📂 Files Included
+- `Ecommerce_Sales_Dashboard.pbix`
+- `Ecommerce_Dashboard.pdf`
+- `Data_Cleaning.ipynb`
+- `cleaned_dataset.csv`
+- `dashboard.png`
 
-- "Ecommerce_Sales_Dashboard.pbix" – Power BI dashboard
-- "Ecommerce_Dashboard.pdf" – Dashboard report
-- "Data_Cleaning.ipynb" – Google Colab notebook
-- "cleaned_dataset.csv" – Cleaned dataset
-- "dashboard.png" – Dashboard screenshot
-
-Skills Demonstrated
-
+## 🚀 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Data Visualization
-- Business Intelligence
 - Dashboard Design
+- Business Intelligence
 - Power BI
 - Python (Pandas)
+- Google Colab
+- Microsoft Excel
