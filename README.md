@@ -30,11 +30,9 @@ This project is an interactive E-commerce Sales Dashboard built using Power BI. 
 - Explored product-wise sales details using interactive visuals.
 
 ## 📂 Files Included
-- `Ecommerce_Sales_Dashboard.pbix`
 - `Ecommerce_Dashboard.pdf`
 - `Data_Cleaning.ipynb`
 - `cleaned_dataset.csv`
-- `dashboard.png`
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
